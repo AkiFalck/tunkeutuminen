@@ -82,7 +82,8 @@ Enemmänkin olisi ollut, mutta eikai kannata rullailla useempaa riviä kuin nuo.
 
 
 
-# i) Eipä näy enään wiresharkilla tai acesslogissa 
+# i) Hieman vaikeampi: LoWeR ChEcK
+Eipä näy enään wiresharkilla tai acesslogissa 
 ![pic-i1](https://github.com/user-attachments/assets/fb8e3dfb-5109-4cfb-ae13-e1ee09223ea6)
 ![pic-i2](https://github.com/user-attachments/assets/56e59f5e-baaf-4fd4-8f15-f9c62de573bf)
 ![pic-i3](https://github.com/user-attachments/assets/80bc7ed7-ce25-4a65-b60d-e66c3f6d170a)
