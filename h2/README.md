@@ -67,7 +67,7 @@ Komennolla grep -i nmap /var/log/apache2/access.log
 
 HTTP suodatus paketeista, jotka sisältää nmap  
 
-#f) Net grep
+# f) Net grep
 ![pic-f](https://github.com/user-attachments/assets/92cdef67-715b-47dd-aeec-ce3df436441c)
 
 Enemmänkin olisi ollut, mutta eikai kannata rullailla useempaa riviä kuin nuo. 
