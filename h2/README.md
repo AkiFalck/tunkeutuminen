@@ -2,6 +2,12 @@
 # H2
 
 Verkkoon tunkeutuminen ja tiedustelu
+## x) Lue ja vastaa lyhyesti kysymyksiin.
+## Selitä tuskan pyramidin idea
+Tuskan pyramidi kuvaa tunnistamisen vaikeutta. Mitä ylempäna ollaan, sitä vaikeampi hyökkäys on havaita, mutta sitä enemmän hyökkääjää satuttaa sen havaitseminen.
+## Selitä timanttimallin (Diamond Model) idea
+Timanttimallissa tarkastellaan neljää osaa: hyökkääjää, uhria, palvelinta ja haittaohjelmaa. Näiden analysointi auttaa ymmärtämään hyökkäyksen kokonaisuutta.
+
 
 ## a) Apache log
 ![pic-a](https://github.com/user-attachments/assets/2ba50b58-d80b-4450-9e5b-037481589d13)
