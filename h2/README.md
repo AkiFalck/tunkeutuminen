@@ -4,7 +4,7 @@
 Verkkoon tunkeutuminen ja tiedustelu
 
 ## a) Apache log
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-a.png
+![pic-a](https://github.com/user-attachments/assets/2ba50b58-d80b-4450-9e5b-037481589d13)
 
 Kävijän IP-osoite 
 
@@ -24,7 +24,8 @@ Selaimesta ja käyttöjärjestelmästä tietoa
 
 Selaimen renderöinti moottori ja selaimen versio. 
 ## b) Nmapped
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-b.png
+![pic-b](https://github.com/user-attachments/assets/b27e722e-18ab-4c6f-8604-e8f2b3dec395)
+
 Aloitetaan Nmap ja aikaleima 
 
 Scannauksen raportti localhostiin 
@@ -56,27 +57,34 @@ Traceroute --traceroute
 
 Skripti skannaus –sC sama kuin --script=default 
 # d) Jäljet lokissa
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-d.png
+![pic-d](https://github.com/user-attachments/assets/bddadf45-9f31-4549-8c58-d42c95113eed)
 Komennolla grep -i nmap /var/log/apache2/access.log 
 
 “global regex print” -i osa tarkoittaa, että ei oteta huomioon onko isolla vai pienellä ja loppu tottakai mistä etsitään. 
 
 # e) Wire sharking
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-e.png
+![pic-e](https://github.com/user-attachments/assets/59a6b303-6e89-49ad-91b2-48f53b235958)
+
 HTTP suodatus paketeista, jotka sisältää nmap  
 
 #f) Net grep
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-f.png
+![pic-f](https://github.com/user-attachments/assets/92cdef67-715b-47dd-aeec-ce3df436441c)
+
 Enemmänkin olisi ollut, mutta eikai kannata rullailla useempaa riviä kuin nuo. 
 
 # g) Agentti
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-g.png
+![pic-g](https://github.com/user-attachments/assets/6eabf620-4dbf-4935-9b33-9afeb016766d)
+
 
 # h) Pienemmät jäljet
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-h1.png
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-h2.png
+![pic-h1](https://github.com/user-attachments/assets/e946d78b-87ca-4ce0-add8-03a5cc3cc338)
+![pic-h2](https://github.com/user-attachments/assets/7f0c123e-2268-45b8-84e0-856de6dd7ebe)
+
+
 
 # i) Eipä näy enään wiresharkilla tai acesslogissa 
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-i1.png
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-i2.png
-/home/akif/Documents/projektit/tunkeutuminen/h2/pic-i3.png
+![pic-i1](https://github.com/user-attachments/assets/fb8e3dfb-5109-4cfb-ae13-e1ee09223ea6)
+![pic-i2](https://github.com/user-attachments/assets/56e59f5e-baaf-4fd4-8f15-f9c62de573bf)
+![pic-i3](https://github.com/user-attachments/assets/80bc7ed7-ce25-4a65-b60d-e66c3f6d170a)
+
+
