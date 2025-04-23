@@ -2,9 +2,9 @@
 Verkkoon tunkeutuminen ja tiedustelu
 
 ## 1) RFID - tuotteet
-- Veikkaus kortti (joskus aikanaan tämmöinenkin hankittu)
 - Pankkikortit
 - Passi
+- Veikkaus kortti (joskus aikanaan tämmöinenkin hankittu)
 
 Suhteellisen hyvin kun pankkikortit on paremmin suojattu. 
 Passia kuljettaa mukana vain kun tarvitsee.
