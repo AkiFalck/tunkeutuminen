@@ -6,6 +6,10 @@ Verkkoon tunkeutuminen ja tiedustelu
 - Pankkikortit
 - Passi
 
+Suhteellisen hyvin kun pankkikortit on paremmin suojattu. 
+Passia kuljettaa mukana vain kun tarvitsee.
+Veikkaus kortin voisi jo tuhota kun siirtynyt käyttämään sovellusta.
+
 ## 2) APDU
 [APDU_Interpreter](https://docs.springcard.com/books/SpringCore/PCSC_Operation/APDU_Interpreter/index)
 - CLA Protokolla
