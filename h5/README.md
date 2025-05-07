@@ -12,6 +12,7 @@ Lopulta kuitenkin asensin työkalun ihan suoraan kalin reposta kun koitin koment
 - 
 
 ## b) mininet ja TCP SYN
-![screenshot_07052025_022957](https://github.com/user-attachments/assets/e0e2c926-8fe5-4029-9749-259fbab33d6b)
+![screenshot_07052025_023104](https://github.com/user-attachments/assets/8ecb3b21-0dee-4d83-b6f8-1ba647796493)
+
 
 ![screenshot_07052025_022857](https://github.com/user-attachments/assets/d829afe8-6486-46d9-9cb0-cb00a3c15444)
