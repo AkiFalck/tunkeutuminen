@@ -2,10 +2,13 @@
 Verkkoon tunkeutuminen ja tiedustelu
 
 ## a) evilginx2
-- Aluksi koitin asentaa työkalua suoraan git reposta mutta go-golang ei suostunut latautumaan. Jotenka jouduin korjaamaan virheitä tässä välissä jossa meni tovi. ![screenshot_05052025_170325](https://github.com/user-attachments/assets/de1a6117-ac54-4eb4-a9d3-bc6d7bedbdf4)![screenshot_05052025_133837](https://github.com/user-attachments/assets/2b19c290-a578-47d8-80ee-cd4b2d857d38)
+- Aluksi koitin asentaa työkalua suoraan git reposta mutta go-golang ei suostunut latautumaan. Jotenka jouduin korjaamaan virheitä tässä välissä jossa meni tovi.
+![screenshot_05052025_170325](https://github.com/user-attachments/assets/de1a6117-ac54-4eb4-a9d3-bc6d7bedbdf4)![screenshot_05052025_133837](https://github.com/user-attachments/assets/2b19c290-a578-47d8-80ee-cd4b2d857d38)
 
 ![screenshot_07052025_002643](https://github.com/user-attachments/assets/6ac3d369-e60f-46ad-9628-d69cb640cca0)
-Lopulta kuitenkin asensin työkalun ihan suoraan kalin reposta kun koitin komentoa ja kali ehdotti lataamaan sieltä.![screenshot_07052025_002431](https://github.com/user-attachments/assets/7e2f70bf-414b-4689-a75b-ed78edbefff3)
+
+Lopulta kuitenkin asensin työkalun ihan suoraan kalin reposta kun koitin komentoa ja kali ehdotti lataamaan sieltä.
+![screenshot_07052025_002431](https://github.com/user-attachments/assets/7e2f70bf-414b-4689-a75b-ed78edbefff3)
 
 ![screenshot_06052025_205843](https://github.com/user-attachments/assets/6584a7d1-eeab-4eb3-a4fc-5a84cbc58a5a)
 
