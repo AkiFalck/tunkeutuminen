@@ -15,6 +15,10 @@ Lopulta kuitenkin asensin työkalun ihan suoraan kalin reposta kun koitin koment
 Enpä tehnyt työkalulla mitään kun ei ole domainia ja ei uskalla käyttää ilman kunnollista ohjeistusta.
 
 ## b) mininet ja TCP SYN
+
+mininetti päälle yksinkertaisella topologialla
+sudo mn --topo single,3 --mac --switch ovsk --controller remote
+
 ![screenshot_07052025_023104](https://github.com/user-attachments/assets/8ecb3b21-0dee-4d83-b6f8-1ba647796493)
 
 Vaarallinen komento jättää taustalle tuo hping3 pyörimään mutta kerkesi ottamaan topilla kuvan ennen kaatumista.
